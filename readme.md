@@ -5,7 +5,7 @@
 
 [FR]
 - 👋 Bonjour tout le monde ! Je suis @heaporstack.
-- 👀 Je suis interessé par la programmation informatique (C/C++, Java, Rust, PHP, and more...).
+- 👀 Je suis interessé par la programmation informatique (C/C++, Java, Rust, PHP, et autres...).
 - 🌱 J'étudie actuellement l'informatique à l'université en France.
 
 <!---
